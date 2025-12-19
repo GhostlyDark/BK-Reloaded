@@ -12,6 +12,48 @@
     "textures": [
         {
             "hashes": {
+                "rice": "2fe841ce#3#1",
+                "rt64": "79df91d186ccdd87"
+            },
+            "path": ""
+        },
+        {
+            "hashes": {
+                "rice": "4788fb3f#3#1",
+                "rt64": "6ab48dfa082793ed"
+            },
+            "path": ""
+        },
+        {
+            "hashes": {
+                "rice": "25448bc1#3#1",
+                "rt64": "e198796a239fa3b2"
+            },
+            "path": ""
+        },
+        {
+            "hashes": {
+                "rice": "677beb3f#3#1",
+                "rt64": "64b2c91496e2977b"
+            },
+            "path": ""
+        },
+        {
+            "hashes": {
+                "rice": "45377aa1#3#1",
+                "rt64": "e5ef54cb38eb7441"
+            },
+            "path": ""
+        },
+        {
+            "hashes": {
+                "rice": "4fd951ce#3#1",
+                "rt64": "afef52d90ac3bca5"
+            },
+            "path": ""
+        },
+        {
+            "hashes": {
                 "rice": "0d2b1d07#2#0#455e6dcb",
                 "rt64": "0017c0011e17db59"
             },
