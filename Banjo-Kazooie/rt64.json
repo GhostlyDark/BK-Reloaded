@@ -7,8 +7,22 @@
         "hashVersion": 5
     },
     "extraFiles": [],
-    "operationFilters": [],
-    "shiftFilters": [],
+    "operationFilters": [
+        {
+            "operation": "preload",
+            "wildcard": "UI\\Pre-rendered\\Copyright\\*"
+        },
+        {
+            "operation": "preload",
+            "wildcard": "UI\\Pre-rendered\\Title Logo\\*"
+        }
+    ],
+    "shiftFilters": [
+        {
+            "shift": "half",
+            "wildcard": "UI\\Pre-rendered\\*"
+        }
+    ],
     "textures": [
         {
             "hashes": {
