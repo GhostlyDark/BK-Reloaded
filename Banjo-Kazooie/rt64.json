@@ -2,11 +2,14 @@
     "configuration": {
         "autoPath": "rice",
         "configurationVersion": 3,
-        "defaultOperation": "stream",
+        "defaultOperation": "preload",
         "defaultShift": "none",
         "hashVersion": 5
     },
-    "extraFiles": [],
+    "extraFiles": [
+        "mod.json",
+        "thumb.dds"
+    ],
     "operationFilters": [
         {
             "operation": "preload",
@@ -13187,6 +13190,160 @@
             "hashes": {
                 "rice": "64d1f771#3#1",
                 "rt64": "ff30d8c3f891fb32"
+            },
+            "path": ""
+        },
+        {
+            "hashes": {
+                "rice": "e80f6077#2#1#f3075342",
+                "rt64": "0bd64b212d0dadd8"
+            },
+            "path": ""
+        },
+        {
+            "hashes": {
+                "rice": "cbb3b6c6#2#1#24d500a0",
+                "rt64": "1ba6a8d7e885e0c3"
+            },
+            "path": ""
+        },
+        {
+            "hashes": {
+                "rice": "b490562d#2#1#578808b0",
+                "rt64": "25791eef15c815d6"
+            },
+            "path": ""
+        },
+        {
+            "hashes": {
+                "rice": "d4caa5b6#2#1#eb2f7444",
+                "rt64": "30dcdabedd5b0b24"
+            },
+            "path": ""
+        },
+        {
+            "hashes": {
+                "rice": "2269498d#2#1#9457b60c",
+                "rt64": "349d090297bdc33a"
+            },
+            "path": ""
+        },
+        {
+            "hashes": {
+                "rice": "dc9396f3#2#1#2b722dfb",
+                "rt64": "34edf8a0161abd31"
+            },
+            "path": ""
+        },
+        {
+            "hashes": {
+                "rice": "66fd8ec4#2#1#a17b7a16",
+                "rt64": "3e404a79ce480a4d"
+            },
+            "path": ""
+        },
+        {
+            "hashes": {
+                "rice": "8971a086#2#1#90f8b938",
+                "rt64": "5c801b0614bc5dc8"
+            },
+            "path": ""
+        },
+        {
+            "hashes": {
+                "rice": "ff8d46de#2#1#c9eb9197",
+                "rt64": "6945515d9668ee0e"
+            },
+            "path": ""
+        },
+        {
+            "hashes": {
+                "rice": "899db673#2#1#40427f30",
+                "rt64": "73ba5414a3a8fad3"
+            },
+            "path": ""
+        },
+        {
+            "hashes": {
+                "rice": "f356102e#2#1#daae06ff",
+                "rt64": "7f1b1eda6184d949"
+            },
+            "path": ""
+        },
+        {
+            "hashes": {
+                "rice": "e3392a8a#2#1#dae800bd",
+                "rt64": "82f0a40b77a8daae"
+            },
+            "path": ""
+        },
+        {
+            "hashes": {
+                "rice": "2e9741cd#2#1#0cd5de00",
+                "rt64": "8c963415305fb64f"
+            },
+            "path": ""
+        },
+        {
+            "hashes": {
+                "rice": "a6c240cb#2#1#3caf8bc1",
+                "rt64": "8e3a59087f9493a3"
+            },
+            "path": ""
+        },
+        {
+            "hashes": {
+                "rice": "3874683f#2#1#3e3803c0",
+                "rt64": "8f592dd69856e354"
+            },
+            "path": ""
+        },
+        {
+            "hashes": {
+                "rice": "442c0ac7#2#1#f2c01177",
+                "rt64": "8f784b148e4ed561"
+            },
+            "path": ""
+        },
+        {
+            "hashes": {
+                "rice": "186b1411#2#1#14c2af8e",
+                "rt64": "9e0c698c53761dee"
+            },
+            "path": ""
+        },
+        {
+            "hashes": {
+                "rice": "db71f9e4#2#1#9bdd5b4c",
+                "rt64": "b3c4e33572d76533"
+            },
+            "path": ""
+        },
+        {
+            "hashes": {
+                "rice": "a6b99f06#2#1#3c3b8e95",
+                "rt64": "c5e391af1a04bfc4"
+            },
+            "path": ""
+        },
+        {
+            "hashes": {
+                "rice": "f0d092bf#2#1#71d73327",
+                "rt64": "da06e382869d8db8"
+            },
+            "path": ""
+        },
+        {
+            "hashes": {
+                "rice": "ee14b875#2#1#e6f83b83",
+                "rt64": "ddf05e0b855b1070"
+            },
+            "path": ""
+        },
+        {
+            "hashes": {
+                "rice": "2623e3e5#2#1#e0f3b190",
+                "rt64": "eadf198d73533133"
             },
             "path": ""
         }

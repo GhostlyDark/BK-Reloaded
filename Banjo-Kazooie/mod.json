@@ -1,0 +1,12 @@
+{
+    "authors" : [
+        "GhostlyDark"
+    ],
+    "description" : "Banjo-Kazooie HD texture pack",
+    "display_name" : "BK Reloaded",
+    "game_id" : "bk",
+    "id" : "BK-Reloaded",
+    "minimum_recomp_version" : "1.0.0",
+    "short_description" : "HD texture pack",
+    "version" : "0.1.0"
+}
