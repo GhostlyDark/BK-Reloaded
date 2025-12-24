@@ -23,6 +23,10 @@
     "shiftFilters": [
         {
             "shift": "half",
+            "wildcard": "Areas\\Gruntilda's Lair\\Grunty's Furnace Fun\\*"
+        },
+        {
+            "shift": "half",
             "wildcard": "UI\\Pre-rendered\\*"
         }
     ],
