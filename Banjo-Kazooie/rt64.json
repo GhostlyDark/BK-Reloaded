@@ -12,6 +12,10 @@
     ],
     "operationFilters": [
         {
+            "operation": "stream",
+            "wildcard": "Hacks\\*"
+        },
+        {
             "operation": "preload",
             "wildcard": "UI\\Pre-rendered\\Copyright\\*"
         },
