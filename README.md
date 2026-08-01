@@ -1,6 +1,6 @@
 # BK Reloaded
 
-Banjo-Kazooie HD texture pack for GLideN64 and rt64 (Recomp).
+Banjo-Kazooie HD texture pack for GLideN64, rt64 (Recomp) and Lighthouse.
 
 > [!IMPORTANT]
 > Release files can be found over at [evilgames.eu](https://evilgames.eu/texture-packs/bk-reloaded.htm) and [GitHub Releases](https://github.com/GhostlyDark/BK-Reloaded/releases/latest).
@@ -60,6 +60,12 @@ Optional (but recommended) settings:
 ## rt64 (BanjoRecomp)
 
 Download the `.rtz` file. Launch the game and go into the mods menu. You may drop the file on top of the game window or use the `Install Mods` button.
+
+
+
+## Lighthouse
+
+O2R files go into the `mods` directory. Press `Tab` to toggle HD textures while running the game. Press `Escape` to open the settings menu, which contains a mod menu to manage currently installed mods.
 
 
 
