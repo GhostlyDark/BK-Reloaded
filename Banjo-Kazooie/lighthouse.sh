@@ -2296,3 +2296,6 @@ cp "_temp/Banjo-Kazooie#1C33225F#4#0_all$EXT" "$PORT/assets/lang/jp/sprite/ASSET
 cp "_temp/Banjo-Kazooie#29215CC5#4#0_all$EXT" "$PORT/assets/lang/jp/sprite/ASSET_6EA_JP_FONT_MASK_0_253$EXT"
 cp "_temp/Banjo-Kazooie#5D89A61E#4#0_all$EXT" "$PORT/assets/lang/jp/sprite/ASSET_6EA_JP_FONT_MASK_0_254$EXT"
 cp "_temp/Banjo-Kazooie#3B5BED06#4#0_all$EXT" "$PORT/assets/lang/jp/sprite/ASSET_6EA_JP_FONT_MASK_0_255$EXT"
+
+cp "_temp/Banjo-Kazooie#C8127EAB#2#0#30CFAA6B_ciByRGBA$EXT" "$PORT/assets/model/ASSET_3A7_INTRO_RARE_LOGO_tex_6$EXT"
+cp "_temp/Banjo-Kazooie#7649A4FF#2#0#C5EA70EB_ciByRGBA$EXT" "$PORT/assets/model/ASSET_46C_JIGSAW_PUZZLE_tex_20"
