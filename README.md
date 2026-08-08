@@ -75,6 +75,9 @@ Contributors:
 
 - **GhostlyDark:** Main pack creator
 - **brochacho:** Flight and shock jump pad, Grunty (Final) portrait, Puzzle transition
+- **Cloudy:** Japanese in-game font
+- **Granvillimus:** Gold shine, Health animation icons, Level names
 - **intermissionfb:** GoldenEye 007 HD textures
 - **James:** Control Stick animation
+- **Jorginator:** Health animation icons (original render)
 - **toonjoey:** Mumbo painting in Mad Monster Mansion
