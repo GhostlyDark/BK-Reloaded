@@ -426,6 +426,27 @@ cp "_temp/Banjo-Kazooie#431E9395#3#1_all$EXT" "$PORT/assets/model/ASSET_7D4_TRAN
 cp "_temp/Banjo-Kazooie#13EE6B55#0#3_all$EXT" "$PORT/assets/model/ASSET_7D7_MM_HUT_tex_3$EXT"
 cp "_temp/Banjo-Kazooie#AF161644#0#3_all$EXT" "$PORT/assets/model/ASSET_89D_ZOOMBOX_SPRITE_tex_0$EXT"
 cp "_temp/Banjo-Kazooie#68C45FDA#0#3_all$EXT" "$PORT/assets/model/ASSET_89D_ZOOMBOX_SPRITE_tex_1$EXT"
+
+# Nipper Eye
+cp "_temp/Banjo-Kazooie#475F10A7#2#0#BB63010C_ciByRGBA$EXT" "$PORT/assets/model/ASSET_3D5_NIPPER_tex_2$EXT"
+cp "_temp/Banjo-Kazooie#DE2D48A2#2#0#3E025132_ciByRGBA$EXT" "$PORT/assets/model/ASSET_3D5_NIPPER_tex_3$EXT"
+cp "_temp/Banjo-Kazooie#4D30BD72#2#0#5F873801_ciByRGBA$EXT" "$PORT/assets/model/ASSET_3D5_NIPPER_tex_4$EXT"
+cp "_temp/Banjo-Kazooie#532AD701#2#0#A8D2B31C_ciByRGBA$EXT" "$PORT/assets/model/ASSET_3D5_NIPPER_tex_5$EXT"
+
+# Kazooie Eye
+cp "_temp/Banjo-Kazooie#02412EA2#2#0#D838693F_ciByRGBA$EXT" "$PORT/assets/model/ASSET_3E2_GV_KAZOOIE_TARGET_tex_0$EXT"
+cp "_temp/Banjo-Kazooie#89FF1F8F#2#0#8884C019_ciByRGBA$EXT" "$PORT/assets/model/ASSET_34D_BANJOKAZOOIE_LOW_POLY_tex_16$EXT"
+cp "_temp/Banjo-Kazooie#F86372F5#2#0#FC64BEC7_ciByRGBA$EXT" "$PORT/assets/model/ASSET_34E_BANJOKAZOOIE_HIGH_POLY_tex_17$EXT"
+cp "_temp/Banjo-Kazooie#A78CF516#2#0#DCDB4908_ciByRGBA$EXT" "$PORT/assets/model/ASSET_45B_KAZOOIE_RACK_tex_3$EXT"
+cp "_temp/Banjo-Kazooie#EC498B4B#2#0#66ECCF4B_ciByRGBA$EXT" "$PORT/assets/model/ASSET_532_BANJO_KAZOOIE_CUTSCENES_tex_14$EXT"
+
+# Kazooie Wing
+cp "_temp/Banjo-Kazooie#854CA4DD#2#0#175D8A46_ciByRGBA$EXT" "$PORT/assets/model/ASSET_34D_BANJOKAZOOIE_LOW_POLY_tex_14$EXT"
+cp "_temp/Banjo-Kazooie#25051091#2#0#868AAD26_ciByRGBA$EXT" "$PORT/assets/model/ASSET_34E_BANJOKAZOOIE_HIGH_POLY_tex_15$EXT"
+cp "_temp/Banjo-Kazooie#5B9ADC56#2#0#A3C08B2C_ciByRGBA$EXT" "$PORT/assets/model/ASSET_45B_KAZOOIE_RACK_tex_2$EXT"
+cp "_temp/Banjo-Kazooie#2A5EA3F6#2#0#C54EC734_ciByRGBA$EXT" "$PORT/assets/model/ASSET_460_KAZOOIE_RACK_FEATHERS_tex_0$EXT"
+cp "_temp/Banjo-Kazooie#519CAB02#2#0#74E4D80E_ciByRGBA$EXT" "$PORT/assets/model/ASSET_532_BANJO_KAZOOIE_CUTSCENES_tex_12$EXT"
+
 cp "_temp/Banjo-Kazooie#70B9E02D#2#0#BC150AF4_ciByRGBA$EXT" "$PORT/assets/sprite/ASSET_36D_BLUE_EGG_0_0$EXT"
 cp "_temp/Banjo-Kazooie#C9698CFD#2#0#E0924E9D_ciByRGBA$EXT" "$PORT/assets/sprite/ASSET_36D_BLUE_EGG_1_0$EXT"
 cp "_temp/Banjo-Kazooie#44D311F0#2#0#9E333213_ciByRGBA$EXT" "$PORT/assets/sprite/ASSET_36D_BLUE_EGG_2_0$EXT"
